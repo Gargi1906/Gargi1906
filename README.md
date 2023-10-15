@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gargi1906
 
-💻 Full-stack web developer passionate about creating user-friendly and visually appealing websites. 
+💻 Web developer passionate about creating user-friendly and visually appealing websites. 
 
 🚀 I specialize in front-end technologies such as HTML, CSS, JavaScript, and have experience working with popular frameworks like React and Angular.
 
